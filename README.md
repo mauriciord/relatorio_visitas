@@ -1,1 +1,1 @@
-<h2>RELATÓRIO DE VISITAS - FORMULÁRIO PARA TOTVS | ECM</h2><p>Devido algumas limitações do ECM, perceba que não pode existir 'index.html' e somente o 'index.htm'</p>
+<h2>RELATÓRIO DE VISITAS - FORMULÁRIO PARA TOTVS | ECM</h2><p>Devido algumas limitações do ECM, perceba que não pode existir 'index.html' e somente o 'index.htm'</p><h3>Como usar ?</h3><code>	git clone https://github.com/mauriciord/relatorio_visitas.git</code><p>Após isso, jogar a index.htm no fichário do ECM, e depois jogar as pastas css, js e img na pasta do form</p>
